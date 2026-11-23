@@ -46,7 +46,6 @@ Docker Compose	Inicialização do banco de dados
 
 📂 Estrutura do projeto
 
-text
 sample-flask-auth/
 │
 ├── models/
